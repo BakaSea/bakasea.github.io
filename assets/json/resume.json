@@ -19,7 +19,7 @@
       "institution": "Nanjing University",
       "location": "Nanjing, China",
       "url": "https://www.nju.edu.cn/",
-      "area": "Computer Science",
+      "area": "Computer Science and Technology",
       "studyType": "B.S.",
       "startDate": "2019-09-01",
       "endDate": "2023-06-24"
@@ -30,7 +30,8 @@
       "name": "Biophysically-based Simulation of Sun-induced Skin Appearance Changes",
       "publisher": "The Eurographics Association",
       "releaseDate": "2024",
-      "url": "https://diglib.eg.org/items/1f41ebae-3084-46ae-bc5c-f2461e78a689"
+      "url": "https://diglib.eg.org/items/1f41ebae-3084-46ae-bc5c-f2461e78a689",
+      "summary": "Joint first author."
     }
   ],
   "projects": [
