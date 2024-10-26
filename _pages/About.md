@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Email&colon; seawform@gmail.com
+subtitle: Email: <a href="mailto:seawform@gmail.com">seawform@gmail.com</a>
 
 profile:
   align: right

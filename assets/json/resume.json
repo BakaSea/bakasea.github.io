@@ -35,12 +35,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Azur Defense",
+      "summary": "A tower defense fan game for Azur Lane.",
+      "highlights": ["OpenGL", "Self-design game engine"],
+      "startDate": "2021-09",
+      "endDate": "2021-12",
+      "url": "https://github.com/BakaSea/AzurDefense"
     }
   ],
   "languages": [
