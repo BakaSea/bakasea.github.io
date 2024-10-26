@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Email: <a href="mailto:seawform@gmail.com">seawform@gmail.com</a>
+subtitle: Email <a href="mailto:seawform@gmail.com">seawform@gmail.com</a>
 
 profile:
   align: right

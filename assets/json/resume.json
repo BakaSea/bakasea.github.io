@@ -37,7 +37,11 @@
     {
       "name": "Azur Defense",
       "summary": "A tower defense fan game for Azur Lane.",
-      "highlights": ["OpenGL", "Self-design game engine"],
+      "highlights": [
+        "Used C++ to independently write the tower defense game, “AzurDefense”, which realized 2D overlooking game scenes with 3D",
+        "Adopted OpenGL as the graphics rendering framework and independently edited the rasterization process of the rendering pipeline",
+        "Independently developed a simple and convenient game engine including game logic, human-computer interaction, etc. by referring to Unity"
+      ],
       "startDate": "2021-09",
       "endDate": "2021-12",
       "url": "https://github.com/BakaSea/AzurDefense"
