@@ -36,16 +36,35 @@
   ],
   "projects": [
     {
+      "name": "GraphicsRender",
+      "summary": "A simple ray tracing renderer.",
+      "highlights": [
+        "Utilized C++ to write a graphic render that supported user-defined 3D scenes with rendering user-defined resolution ratio and sampling rate.",
+        "Adopted ray tracing (path tracing) algorithm for rendering, used multiple importance sampling and Monte Carlo integration to calculate the results and reduced artifact, and used Microfacet BRDF as the material model to realize a physically base rendering (PBR).",
+        "Inset many samplers including Uniform sampling, Random sampling, and Blue Noise sampling, and adopted Mesh to uniformly support the user-defined OBJ model and polygon light source."
+      ],
+      "startDate": "2022-03",
+      "endDate": "2022-06",
+      "url": "https://github.com/BakaSea/GraphicsRender"
+    },
+    {
       "name": "Azur Defense",
       "summary": "A tower defense fan game for Azur Lane.",
       "highlights": [
-        "Used C++ to independently write the tower defense game, “AzurDefense”, which realized 2D overlooking game scenes with 3D",
-        "Adopted OpenGL as the graphics rendering framework and independently edited the rasterization process of the rendering pipeline",
-        "Independently developed a simple and convenient game engine including game logic, human-computer interaction, etc. by referring to Unity"
+        "Used C++ to independently write the tower defense game, “AzurDefense”, which realized 2D overlooking game scenes with 3D.",
+        "Adopted OpenGL as the graphics rendering framework and independently edited the rasterization process of the rendering pipeline.",
+        "Independently developed a simple and convenient game engine including game logic, human-computer interaction, etc. by referring to Unity."
       ],
       "startDate": "2021-09",
       "endDate": "2021-12",
       "url": "https://github.com/BakaSea/AzurDefense"
+    },
+    {
+      "name": "Flappy Paimon",
+      "summary": "Self-learned Unity's finished products, independently wrote the game logic, and utilized Unity to reproduce the Fappy Paimon game in the 2021 \"Genshin Impact New Year Memorial Ceremony\".",
+      "startDate": "2021-07",
+      "endDate": "2021-07",
+      "url": "https://github.com/BakaSea/FlappyPaimon"
     }
   ],
   "languages": [
