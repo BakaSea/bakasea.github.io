@@ -3,7 +3,7 @@
     "name": "Minghao Huang",
     "email": "seawform@gmail.com",
     "phone": "(+1) 805-631-6823",
-    "url": "https://bakasea.github.io/"
+    "url": "https://seaform.moe/"
   },
   "education": [
     {
@@ -31,7 +31,7 @@
       "publisher": "The Eurographics Association",
       "releaseDate": "2024",
       "url": "https://diglib.eg.org/items/1f41ebae-3084-46ae-bc5c-f2461e78a689",
-      "summary": "Joint first author."
+      "summary": "We propose a biophysically-based model to illustrate the changes in skin appearance under ultraviolet radiation exposure. These changes bring alteration of light scattering, which is simulated by random walk method, and result in observable erythema and tanning."
     }
   ],
   "projects": [
