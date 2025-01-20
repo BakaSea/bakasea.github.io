@@ -36,10 +36,10 @@
   "publications": [
     {
       "name": "Biophysically-based Simulation of Sun-induced Skin Appearance Changes",
-      "publisher": "The Eurographics Association",
+      "publisher": "Pacific Graphics 2024",
       "releaseDate": "2024",
       "url": "https://diglib.eg.org/items/1f41ebae-3084-46ae-bc5c-f2461e78a689",
-      "summary": "In this work, we propose a biophysically-based model to illustrate changes in skin appearance under ultraviolet radiation exposure. We apply a mechanism of erythema and tanning to a multilayer volumetric skin appearance model to simulate observable erythema and tanning induced by sun exposure on skin."
+      "summary": "In this work, we propose a biophysically-based model to illustrate changes in skin appearance under ultraviolet radiation exposure. We apply a mechanism of erythema and tanning to a multilayer volumetric skin appearance model to simulate observable erythema and tanning induced by sun exposure on the skin. The model demonstrates superior quality to the commonly used method with more convincing skin details and bridges biological insights with visual simulations."
     }
   ],
   "projects": [
@@ -47,7 +47,7 @@
       "name": "MikuMikuDance Videos",
       "highlights": [
         "Created MMD videos using a self-designed anime/toon shader",
-        "Integrated the toon shader with lightmaps, outline, physically based rendering, SDF on face, screen space rim light, etc. to achieve a better appearance."
+        "Integrated the toon shader with lightmaps, outline, physically based rendering, signed distance function on face, screen space rim light, etc. to achieve a better appearance."
       ],
       "startDate": "2024",
       "url": "https://space.bilibili.com/5367097/lists/4181411"
@@ -57,7 +57,8 @@
       "highlights": [
         "An offline path tracing renderer written by C++, using microfacet model as the material model to realize physically based rendering.",
         "Supported multiple importance sampling and different samplers like blue noise sampling to reduce artifact.",
-        "Used BVH to accelerate rendering."
+        "Used bounding volume hierarchy to accelerate rendering.",
+        "Adopted mesh to support OBJ models and polygonal lights."
       ],
       "startDate": "2022-03",
       "endDate": "2022-06",
@@ -66,9 +67,9 @@
     {
       "name": "Azur Defense",
       "highlights": [
-        "A tower defense game written by C++, which was realized 2D overlooking game scenes with 3D.",
-        "Adopted OpenGL as the graphics rendering framework and edited the rasterization process of the rendering pipeline.",
-        "Developed a simple and convenient game engine including game logic, human-computer interaction, etc. by referring to Unity."
+        "An Azur Lane tower defense fan game written by C++, which was realized 2D overlooking game scenes with 3D.",
+        "Adopted OpenGL as the graphics rendering framework and implemented the rasterization process of the rendering pipeline.",
+        "Developed a simple and convenient game engine including game logic, human-computer interaction, scripting, etc. by referring to Unity."
       ],
       "startDate": "2021-09",
       "endDate": "2021-12",
@@ -80,6 +81,28 @@
       "startDate": "2021-07",
       "endDate": "2021-07",
       "url": "https://github.com/BakaSea/FlappyPaimon"
+    }
+  ],
+  "awards":[
+    {
+      "title": "Excellent Graduate",
+      "date": "2022"
+    },
+    {
+      "title": "Second-class People’s Scholarship",
+      "date": "2021 & 2022"
+    },
+    {
+      "title": "Bronze Medal, China Collegiate Programming Contest Changchun Site",
+      "date": "2020"
+    },
+    {
+      "title": "The 2020 ICPC Asia Shanghai Regional Contest Honorable Mention",
+      "date": "2020"
+    },
+    {
+      "title": "Third-class People’s Scholarship",
+      "date": "2020"
     }
   ],
   "skills": [
