@@ -13,7 +13,7 @@
       "area": "Computer Science",
       "studyType": "M.S.",
       "startDate": "2024-09-26",
-      "endDate": "present"
+      "endDate": "2026-06-12"
     },
     {
       "institution": "Nanjing University",
@@ -26,6 +26,11 @@
     }
   ],
   "work": [
+    {
+      "name": "miHoYo",
+      "position": "Rendering Engineer",
+      "startDate": "2026-07"
+    },
     {
       "name": "Amazon Web Services (AWS)",
       "position": "Software Development Engineer (Intern)",
