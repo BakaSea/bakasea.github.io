@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+# These libraries are no longer bundled with Ruby 3.4 and later.
+gem 'observer'
+gem 'ostruct'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'

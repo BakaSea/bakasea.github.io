@@ -2,7 +2,6 @@
   "basics": {
     "name": "Minghao Huang",
     "email": "seawform@gmail.com",
-    "phone": "(+1) 805-631-6823",
     "url": "https://seaform.moe/"
   },
   "education": [
@@ -46,6 +45,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Macrofacet Theory for Gaussian Process Statistical Surfaces",
+      "publisher": "ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2026) — ToG Back Cover Article",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1145/3842571",
+      "summary": "We present macrofacet theory to extend microfacet theory to the macro-space and bridge microfacet models with Gaussian processes. Our statistical formulation enables efficient rendering of surfaces, volumes, and in-betweens without sampling surface realizations."
+    },
     {
       "name": "Biophysically-based Simulation of Sun-induced Skin Appearance Changes",
       "publisher": "Pacific Graphics 2024",
